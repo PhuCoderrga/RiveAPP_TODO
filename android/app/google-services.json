@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557505129863",
+    "project_id": "flutterlogin-cb257",
+    "storage_bucket": "flutterlogin-cb257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557505129863:android:3ff25f1841c5bc06863722",
+        "android_client_info": {
+          "package_name": "com.example.rive_animation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557505129863-pgl1rr4judu1mv2s3q5raac9udb7tqk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiTgAND54P7hy3TdCOAVOmURlLmn8RTe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557505129863-pgl1rr4judu1mv2s3q5raac9udb7tqk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
